@@ -26,20 +26,11 @@
         {% endif %}
       {% endfor %}
 
-      <ul>
-        <li class="sidebar-nav-item">Thomas Wiener</li>
-        <li class="sidebar-nav-item">Tacitusstrasse 7 | 12109 Berlin</li>
-        <li class="sidebar-nav-item"><a href="tel:+49 179 59 44 77 9">+49 179 59 44 77 9</a></li>
-        <li class="sidebar-nav-item"><a href="mailto:wiener.thomas@googlemail.com">wiener.thomas@googlemail.com</a></li>
-        <li class="sidebar-nav-item">
-            <a href="https://www.xing.com/profile/Thomas_Wiener4" target="_blank">XING</a> |
-            <a href="http://de.linkedin.com/pub/thomas-wiener/18/b34/a39/" target="_blank">LINKEDIN</a>
-        </li>
-        <hr />
-        <li class="sidebar-nav-item">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</li>
-        </ul>
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
 
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
