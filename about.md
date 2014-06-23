@@ -1,30 +1,31 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
+<img src="{{ site.url }}/public/img/about/me.jpg"/>
+
+### My name is Thomas Wiener
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+    <i>Your expert for Agile Software Engineering in PHP and symfony2</i>
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am a freelance php expert, with more than 8 years of experience in software development and 2 years particularly in symfony2.
+As a former CTO and lead developer of several startups in Berlin I am widely experienced in architecture, SOLID programming, test driven
+development and continuous integration solutions.
 
-There are currently two themes built on Poole:
+My specialties are:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [symfony2](http://symfony.com)
+* [cakephp](http://cakephp.org)
+* [magento](http://magento.com)
+* [jenkins/ci](http://jenkins-ci.org)
+* [capifony](http://capifony.org) / [capistrano](https://github.com/capistrano/capistrano)
+* phpunit
+* tdd
+* architecture
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Are you in need of a lead developer and/or consultant for your IT to optimize processes and accelerate your development? Great! <br />
+Give me a call <a href="tel:+49 179 59 44 77 9">+49 179 59 44 77 9</a> or <br />drop me a note <a href="mailto:wiener.thomas@googlemail.com">wiener.thomas@googlemail.com</a>.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
