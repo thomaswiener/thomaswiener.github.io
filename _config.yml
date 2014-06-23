@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            wiener.io
+tagline:          'Your expert for Agile Software Engineering specialized in PHP and symfony2.'
+description:      'Your expert for Agile Software Engineering specialized in PHP and <a href="http://symfony.com" target="_blank">symfony2</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Thomas Wiener'
+  url:            'https://www.xing.com/profile/Thomas_Wiener4'
+  email:          'thomas@wiener.io'
+
+paginate:         1
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
